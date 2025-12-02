@@ -1,0 +1,21 @@
+# Arquivos de build
+target/
+
+# Maven Wrapper (já que não vai usar)
+.mvn/
+mvnw
+mvnw.cmd
+
+# Ajuda automática do Spring Initializr
+HELP.md
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code (caso abrir por engano)
+.vscode/
+
+# Arquivos de SO
+.DS_Store
+Thumbs.db
