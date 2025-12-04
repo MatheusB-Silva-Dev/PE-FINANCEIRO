@@ -1,13 +1,12 @@
 package com.systemfinanceiro;
 
-import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PraticaSpringApplication {
+public class SpringApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PraticaSpringApplication.class, args);
+		org.springframework.boot.SpringApplication.run(SpringApplication.class, args);
 	}
 
 }
